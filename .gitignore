@@ -1,0 +1,7 @@
+# Unity generated files
+/Library/
+/Temp/
+/obj/
+
+# Visual Studio Code generated files
+.vscode/
